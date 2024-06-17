@@ -24,6 +24,6 @@ A simple calculator application built using Angular and styled with Tailwind CSS
 
 The application will be available at http://localhost:4200.
 
-##Technologies Used
+## Technologies Used
    1.Angular - A platform for building mobile and desktop web applications.
    2.Tailwind CSS - A utility-first CSS framework for rapid UI development.
