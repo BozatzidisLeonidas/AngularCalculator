@@ -13,5 +13,5 @@ A simple calculator application built using Angular and styled with Tailwind CSS
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/angular-calculator.git
-   cd angular-calculator
+   git clone [https://github.com/yourusername/angular-calculator.git
+   cd angular-calculator](https://github.com/BozatzidisLeonidas/AngularCalculator.git)
